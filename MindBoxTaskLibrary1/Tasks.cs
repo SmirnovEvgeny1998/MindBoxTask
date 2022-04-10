@@ -76,7 +76,7 @@ namespace MindBoxTaskLibrary1
 			}
 			return Math.Abs(firstPart - secondPart) * 0.5;
 		}
-		//Является ли треугольник прямоугольным. Если число не целое, требуется 5 или больше цифр после запятой.
+		//Является ли треугольник прямоугольным. Требуются длины 3 сторон. Если число не целое, требуется 5 или больше цифр после запятой.
 		public bool IsTriangleRight(double firstSide, double secondSide, double thirdSide)
 		{
 			double[] sides = {firstSide, secondSide, thirdSide};
