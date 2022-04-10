@@ -1,0 +1,6 @@
+D:\1Programming\Visual Studio\Projects\MindBoxTaskLibrary1\MindBoxTaskLibrary1\bin\Debug\MindBoxTaskLibrary1.dll
+D:\1Programming\Visual Studio\Projects\MindBoxTaskLibrary1\MindBoxTaskLibrary1\bin\Debug\MindBoxTaskLibrary1.pdb
+D:\1Programming\Visual Studio\Projects\MindBoxTaskLibrary1\MindBoxTaskLibrary1\obj\Debug\MindBoxTaskLibrary1.csproj.AssemblyReference.cache
+D:\1Programming\Visual Studio\Projects\MindBoxTaskLibrary1\MindBoxTaskLibrary1\obj\Debug\MindBoxTaskLibrary1.csproj.CoreCompileInputs.cache
+D:\1Programming\Visual Studio\Projects\MindBoxTaskLibrary1\MindBoxTaskLibrary1\obj\Debug\MindBoxTaskLibrary1.dll
+D:\1Programming\Visual Studio\Projects\MindBoxTaskLibrary1\MindBoxTaskLibrary1\obj\Debug\MindBoxTaskLibrary1.pdb
